@@ -1,1 +1,1 @@
-# raytrace
+# Very basic raytracer
